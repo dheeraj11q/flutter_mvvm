@@ -1,0 +1,3 @@
+// for use localization
+// run this command
+>> flutter gen-l10n
